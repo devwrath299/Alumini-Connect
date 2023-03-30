@@ -1,1 +1,1 @@
-# Alumini-Connect
+# Alumni-Connect
